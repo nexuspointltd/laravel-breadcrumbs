@@ -1,5 +1,5 @@
 ################################################################################
- Laravel Breadcrumbs 3
+ Laravel Breadcrumbs 3.
 ################################################################################
 
 A simple Laravel-style way to create breadcrumbs in `Laravel 5 <http://laravel.com/>`_.
